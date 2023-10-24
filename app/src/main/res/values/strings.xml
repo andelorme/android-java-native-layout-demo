@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LayoutDemo</string>
+    <string name="forgot_password"><u>Forgot your email or password ?</u></string>
+
+</resources>
